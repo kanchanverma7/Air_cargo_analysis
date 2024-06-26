@@ -1,7 +1,9 @@
 # Air_cargo_analysis
+
+## Aim 
 To analyze the busiest route which helps to increase the number of aircraft required and prepare an analysis to determine the ticket sales details.
 
-Air Cargo Database Management System
+## Air Cargo Database Management System
 Introduction:
 The Air Cargo Database Management System is designed to facilitate the analysis of passenger travel data and ticket sales details for Air Cargo, an aviation company. The system aims to identify regular customers, analyze popular routes, and optimize ticket sales strategies to improve customer satisfaction and operational efficiency.
 
@@ -18,7 +20,7 @@ Passengers_on_flights: Records travel details including aircraft ID, route ID, c
 Ticket_details: Stores ticket purchase details including purchase date, customer ID, aircraft ID, class ID, number of tickets, ticket price, and airline brand.
 Routes: Contains route details including route ID, flight number, origin airport, destination airport, aircraft ID, and distance in miles.
 
-Operations to be Performed:
+## Operations to be Performed:
 ER Diagram: Create an Entity-Relationship (ER) diagram for the database.
 Table Creation: Write a query to create the route_details table with appropriate data types and constraints.
 Passenger Query: Display all passengers who have traveled on routes 01 to 25.
@@ -40,14 +42,15 @@ Stored Procedure 3: Group flight distances into categories based on travel dista
 Stored Function Query: Determine if complimentary services are provided based on the ticket class.
 Cursor Query: Extract the first record of a customer with a specific last name.
 
-Implementation:
+## Implementation:
 The project involves writing SQL queries and stored procedures to perform the required operations on the Air Cargo database.
 
-Requirements
+## Requirements
 SQL database management system (MySQL)
 Dataset provided in the course resource section
+
+## License
+This project is licensed under the MIT License
+
 Author:
 Kanchan Verma
-
-License
-This project is licensed under the MIT License
