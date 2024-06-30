@@ -50,7 +50,7 @@ SQL database management system (MySQL)
 Dataset provided in the course resource section
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the Apache License Version 2.0
 
 Author:
 Kanchan Verma
